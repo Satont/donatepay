@@ -1,4 +1,4 @@
-# An DonatePay.ru Itegration
+# An DonatePay.ru Integration
 
 Right now it's support only donate event.
 
