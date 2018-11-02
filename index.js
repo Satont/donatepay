@@ -85,6 +85,8 @@ class DonatePay {
             this.init();
         }
     }
-}
+    close() {
+        this.socket.close();    
+    }
 
 module.exports = DonatePay
