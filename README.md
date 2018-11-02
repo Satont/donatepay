@@ -5,7 +5,7 @@
 
 # Installation
 
-- install by `npm i donatepay --save`
+- install by `npm i satont/donatepay --save`
 - take widget token from http://donatepay.ru (not API)
 
 # Usage
