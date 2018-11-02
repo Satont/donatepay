@@ -87,4 +87,4 @@ class DonatePay {
     }
 }
 
-module.exports = Donatepay
+module.exports = DonatePay
