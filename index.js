@@ -1,4 +1,4 @@
-const axiost = require('axios')
+const axios = require('axios')
 const SockJS = require('sockjs-client')
 
 class DonatePay {
