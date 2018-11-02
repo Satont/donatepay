@@ -1,6 +1,7 @@
 # An DonatePay.ru Integration
 
-Right now it's support only donate event.
+- Right now it's support only donate event.
+- Original author: https://github.com/zelenskyds/
 
 # Installation
 
