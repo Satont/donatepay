@@ -11,7 +11,7 @@
     "DonatePay",
     "integration"
   ],
-  "author": "zelenskyds",
+  "author": "Satont",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
